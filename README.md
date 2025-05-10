@@ -19,6 +19,6 @@ Exception calling "_DismSet Edition" with "6" argument(s): "Element not found. (
 
 -   Restart the system and then try to change the edition again.
 -   If it's still not resolved then follow the below guide.  
-https://gravesoft.dev/in-place_repair_upgrade
+https://gr
 
 ---
